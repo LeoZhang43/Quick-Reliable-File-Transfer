@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yuhangzhang/EE542/labs/lab4/code/Custom-Reliable-File-Transfer-Protocol",
+      "program": "/Users/yuhangzhang/EE542/labs/lab4/code/Custom-Reliable-File-Transfer-Protocol/build/Debug/outDebug"
+    }
+  ]
+}
